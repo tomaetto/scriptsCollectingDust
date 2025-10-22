@@ -1,0 +1,1 @@
+A folder of old python scripts collecting dust, feel free to use these. These are from when I started studying and I'm still studying. So expect them to be out of date or maintenance, with lazy and noob style.
